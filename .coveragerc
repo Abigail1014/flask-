@@ -1,0 +1,6 @@
+[run]
+source = mi_proyecto
+omit = 
+    tests/*
+    autoapp.py
+
